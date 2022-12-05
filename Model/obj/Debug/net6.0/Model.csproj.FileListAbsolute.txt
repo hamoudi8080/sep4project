@@ -1,0 +1,24 @@
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Bruger\OneDrive - ViaUC\Skrivebord\Sep4\WebAPI\Model\obj\Debug\net6.0\ref\Model.dll
+C:\sep4projectVia\WebAPI\Model\bin\Debug\net6.0\Model.deps.json
+C:\sep4projectVia\WebAPI\Model\bin\Debug\net6.0\Model.dll
+C:\sep4projectVia\WebAPI\Model\bin\Debug\net6.0\Model.pdb
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.dll
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\refint\Model.dll
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\Model.pdb
+C:\sep4projectVia\WebAPI\Model\obj\Debug\net6.0\ref\Model.dll

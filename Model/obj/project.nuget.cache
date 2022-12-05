@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtTb1MfPQkXrZ7aUPAKwgCX5g2gvKGGFfnqa9uOzwE4WK6Pwzznva2c7VBcHL3FfWD3t2ct1oalgSbRtG8kSGQ==",
+  "success": true,
+  "projectFilePath": "C:\\sep4projectVia\\WebAPI\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamod\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
